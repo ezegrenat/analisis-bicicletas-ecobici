@@ -3,7 +3,7 @@ En este proyecto voy a estar analizando cómo fue el uso de las bicicletas en CA
 
 Recomiendo leer [el archivo html](https://ezegrenat.github.io/analisis-bicicletas-ecobici/analisis_bicicletas_2.html) dado que con este se puede ir leyendo el código y las visualizaciones al mismo tiempo. 
 
-Una redacción mas amigable (y mas completa) del análisis está en proceso. ¡Saludos!
+
 
 
 
